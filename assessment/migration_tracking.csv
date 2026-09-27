@@ -1,0 +1,4 @@
+Application,Status
+CustomerApp,Managed Identity Ready
+StorageApp,Managed Identity Ready
+LegacyApp,Legacy Exception

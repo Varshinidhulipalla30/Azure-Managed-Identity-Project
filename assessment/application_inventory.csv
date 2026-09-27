@@ -1,0 +1,4 @@
+Application,Current Authentication,Managed Identity Support
+CustomerApp,Client Secret,Yes
+StorageApp,Client Secret,Yes
+LegacyApp,Client Secret,No
